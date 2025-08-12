@@ -8,7 +8,7 @@ The approach is based on our paper:
 > arXiv preprint arXiv:2310.10856, 2023.  
 > [Paper Link](https://arxiv.org/abs/2310.10856)
 
-BibTeX:
+If you use this code in your research, please cite:
 ```
 @article{peng2023joint,
   title={Joint optimization of traffic signal control and vehicle routing in signalized road networks using multi-agent deep reinforcement learning},
