@@ -9,12 +9,14 @@ The approach is based on our paper:
 > [Paper Link](https://arxiv.org/abs/2310.10856)
 
 BibTeX:
+```
 @article{peng2023joint,
   title={Joint optimization of traffic signal control and vehicle routing in signalized road networks using multi-agent deep reinforcement learning},
   author={Peng, Xianyue and Han, Gengyue and Wang, Hao and Zhang, Michael},
   journal={arXiv preprint arXiv:2310.10856},
   year={2023}
 }
+```
 
 ---
 
