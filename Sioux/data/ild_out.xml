@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-08-11 22:21:33 by Eclipse SUMO sumo Version v1_21_0+0973-4db46de2bdb
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="Sioux/data/exp.net.xml"/>
+        <route-files value="Sioux/data/exp_0.rou.xml"/>
+        <additional-files value="Sioux/data/exp.add.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="Sioux_signal_route_trip.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="600"/>
+    </processing>
+
+    <report>
+        <no-warnings value="True"/>
+        <duration-log.disable value="True"/>
+        <no-step-log value="True"/>
+    </report>
+
+    <traci_server>
+        <remote-port value="8000"/>
+    </traci_server>
+
+    <random_number>
+        <seed value="12"/>
+    </random_number>
+
+</sumoConfiguration>

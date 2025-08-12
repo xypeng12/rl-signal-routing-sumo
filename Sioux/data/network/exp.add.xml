@@ -1,0 +1,16 @@
+<additional>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n1_e1_0" lane="n1_e1_0" pos="30"/>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n1_e1_1" lane="n1_e1_1" pos="30"/>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n2_e2_0" lane="n2_e2_0" pos="30"/>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n2_e2_1" lane="n2_e2_1" pos="30"/>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n3_e3_0" lane="n3_e3_0" pos="30"/>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n3_e3_1" lane="n3_e3_1" pos="30"/>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n5_e5_0" lane="n5_e5_0" pos="30"/>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n5_e5_1" lane="n5_e5_1" pos="30"/>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n7_e7_0" lane="n7_e7_0" pos="30"/>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n7_e7_1" lane="n7_e7_1" pos="30"/>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n13_e13_0" lane="n13_e13_0" pos="30"/>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n13_e13_1" lane="n13_e13_1" pos="30"/>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n23_e23_0" lane="n23_e23_0" pos="30"/>
+  <inductionLoop file="ild_out.xml" freq="3600" id="n23_e23_1" lane="n23_e23_1" pos="30"/>
+</additional>

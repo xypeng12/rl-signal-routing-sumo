@@ -1,0 +1,134 @@
+<additional>
+  <tlLogic id="n12" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGggrrrrGGGg"/>
+    <phase duration="5" state="yyyyrrrryyyy"/>
+    <phase duration="30" state="rrrrGGGgGrrr"/>
+    <phase duration="5" state="rrrryyyyyrrr"/>
+  </tlLogic>
+  <tlLogic id="n9" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGggrrrrGGGg"/>
+    <phase duration="5" state="yyyyrrrryyyy"/>
+    <phase duration="30" state="rrrrGGGgGrrr"/>
+    <phase duration="5" state="rrrryyyyyrrr"/>
+  </tlLogic>
+  <tlLogic id="n4" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGggrrrrGGGg"/>
+    <phase duration="5" state="yyyyrrrryyyy"/>
+    <phase duration="30" state="rrrrGGGgGrrr"/>
+    <phase duration="5" state="rrrryyyyyrrr"/>
+  </tlLogic>
+  <tlLogic id="n14" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGggrrrrGGGg"/>
+    <phase duration="5" state="yyyyrrrryyyy"/>
+    <phase duration="30" state="rrrrGGGgGrrr"/>
+    <phase duration="5" state="rrrryyyyyrrr"/>
+  </tlLogic>
+  <tlLogic id="n21" programID="0" offset="0" type="static">
+    <phase duration="30" state="rrrrGGGgGGgg"/>
+    <phase duration="5" state="rrrryyyyyyyy"/>
+    <phase duration="30" state="GGGgGrrrrrrr"/>
+    <phase duration="5" state="yyyyyrrrrrrr"/>
+  </tlLogic>
+  <tlLogic id="n24" programID="0" offset="0" type="static">
+    <phase duration="30" state="rrrrGGGgGGgg"/>
+    <phase duration="5" state="rrrryyyyyyyy"/>
+    <phase duration="30" state="GGGgGrrrrrrr"/>
+    <phase duration="5" state="yyyyyrrrrrrr"/>
+  </tlLogic>
+  <tlLogic id="n19" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGGgGGggrrrr"/>
+    <phase duration="5" state="yyyyyyyyrrrr"/>
+    <phase duration="30" state="GrrrrrrrGGGg"/>
+    <phase duration="5" state="yrrrrrrryyyy"/>
+  </tlLogic>
+  <tlLogic id="n17" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGGgGGggrrrr"/>
+    <phase duration="5" state="yyyyyyyyrrrr"/>
+    <phase duration="30" state="GrrrrrrrGGGg"/>
+    <phase duration="5" state="yrrrrrrryyyy"/>
+  </tlLogic>
+  <tlLogic id="n6" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGGgGGggrrrr"/>
+    <phase duration="5" state="yyyyyyyyrrrr"/>
+    <phase duration="30" state="GrrrrrrrGGGg"/>
+    <phase duration="5" state="yrrrrrrryyyy"/>
+  </tlLogic>
+  <tlLogic id="n18" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGGgGGggrrrr"/>
+    <phase duration="5" state="yyyyyyyyrrrr"/>
+    <phase duration="30" state="GrrrrrrrGGGg"/>
+    <phase duration="5" state="yrrrrrrryyyy"/>
+  </tlLogic>
+  <tlLogic id="n11" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGrrrrGGrrrr"/>
+    <phase duration="5" state="GyrrrrGyrrrr"/>
+    <phase duration="30" state="GrGGrrGrGGrr"/>
+    <phase duration="5" state="yryGrryryGrr"/>
+    <phase duration="30" state="rrrGGrrrrGGr"/>
+    <phase duration="5" state="rrrGyrrrrGyr"/>
+    <phase duration="30" state="GrrGrGGrrGrG"/>
+    <phase duration="5" state="GrryryGrryry"/>
+  </tlLogic>
+  <tlLogic id="n22" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGrrrrGGrrrr"/>
+    <phase duration="5" state="GyrrrrGyrrrr"/>
+    <phase duration="30" state="GrGGrrGrGGrr"/>
+    <phase duration="5" state="yryGrryryGrr"/>
+    <phase duration="30" state="rrrGGrrrrGGr"/>
+    <phase duration="5" state="rrrGyrrrrGyr"/>
+    <phase duration="30" state="GrrGrGGrrGrG"/>
+    <phase duration="5" state="GrryryGrryry"/>
+  </tlLogic>
+  <tlLogic id="n16" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGrrrrGGrrrr"/>
+    <phase duration="5" state="GyrrrrGyrrrr"/>
+    <phase duration="30" state="GrGGrrGrGGrr"/>
+    <phase duration="5" state="yryGrryryGrr"/>
+    <phase duration="30" state="rrrGGrrrrGGr"/>
+    <phase duration="5" state="rrrGyrrrrGyr"/>
+    <phase duration="30" state="GrrGrGGrrGrG"/>
+    <phase duration="5" state="GrryryGrryry"/>
+  </tlLogic>
+  <tlLogic id="n20" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGrrrrGGrrrr"/>
+    <phase duration="5" state="GyrrrrGyrrrr"/>
+    <phase duration="30" state="GrGGrrGrGGrr"/>
+    <phase duration="5" state="yryGrryryGrr"/>
+    <phase duration="30" state="rrrGGrrrrGGr"/>
+    <phase duration="5" state="rrrGyrrrrGyr"/>
+    <phase duration="30" state="GrrGrGGrrGrG"/>
+    <phase duration="5" state="GrryryGrryry"/>
+  </tlLogic>
+  <tlLogic id="n15" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGrrrrGGrrrr"/>
+    <phase duration="5" state="GyrrrrGyrrrr"/>
+    <phase duration="30" state="GrGGrrGrGGrr"/>
+    <phase duration="5" state="yryGrryryGrr"/>
+    <phase duration="30" state="rrrGGrrrrGGr"/>
+    <phase duration="5" state="rrrGyrrrrGyr"/>
+    <phase duration="30" state="GrrGrGGrrGrG"/>
+    <phase duration="5" state="GrryryGrryry"/>
+  </tlLogic>
+  <tlLogic id="n8" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGrrrrGGrrrr"/>
+    <phase duration="5" state="GyrrrrGyrrrr"/>
+    <phase duration="30" state="GrGGrrGrGGrr"/>
+    <phase duration="5" state="yryGrryryGrr"/>
+    <phase duration="30" state="rrrGGrrrrGGr"/>
+    <phase duration="5" state="rrrGyrrrrGyr"/>
+    <phase duration="30" state="GrrGrGGrrGrG"/>
+    <phase duration="5" state="GrryryGrryry"/>
+  </tlLogic>
+  <tlLogic id="n10" programID="0" offset="0" type="static">
+    <phase duration="30" state="GGrrrrrrrrrrGGGrrrrr"/>
+    <phase duration="5" state="yyrrrrrrrrrryyyrrrrr"/>
+    <phase duration="30" state="rrGGrrrrrrrrrrrGrrrr"/>
+    <phase duration="5" state="rryyrrrrrrrrrrryrrrr"/>
+    <phase duration="30" state="rrrrGGrrrrrrrrrrGGGr"/>
+    <phase duration="5" state="rrrryyrrrrrrrrrryyyr"/>
+    <phase duration="30" state="rrrrrrGGrrrrrrrrrrrG"/>
+    <phase duration="5" state="rrrrrryyrrrrrrrrrrry"/>
+    <phase duration="30" state="rrrrrrrrGGGGGrrrrrrr"/>
+    <phase duration="5" state="rrrrrrrryyyyyrrrrrrr"/>
+  </tlLogic>
+</additional>
