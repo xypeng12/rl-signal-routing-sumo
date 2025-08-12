@@ -8,6 +8,14 @@ The approach is based on our paper:
 > arXiv preprint arXiv:2310.10856, 2023.  
 > [Paper Link](https://arxiv.org/abs/2310.10856)
 
+## BibTeX:
+@article{peng2023joint,
+  title={Joint optimization of traffic signal control and vehicle routing in signalized road networks using multi-agent deep reinforcement learning},
+  author={Peng, Xianyue and Han, Gengyue and Wang, Hao and Zhang, Michael},
+  journal={arXiv preprint arXiv:2310.10856},
+  year={2023}
+}
+
 ---
 
 ## Overview
@@ -18,3 +26,9 @@ The approach is based on our paper:
 - **Algorithm**: Multi-Agent Advantage Actor-Critic (MA2C) with custom deep neural network architectures.
 - **Environment**: Modified Sioux Falls network in SUMO.
 - **Objective**: Improve overall network performance compared to controlling signals or routes alone.
+
+## Code Reference
+
+Part of the environment setup and MA2C training framework is adapted from:
+cts198859 – deeprl_signal_control
+GitHub: https://github.com/cts198859/deeprl_signal_control
